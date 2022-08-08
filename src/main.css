@@ -6,3 +6,7 @@ body{
 h1{
    color:rgb(18, 18, 116) 
 }
+
+img{
+    width: 500px;
+}
